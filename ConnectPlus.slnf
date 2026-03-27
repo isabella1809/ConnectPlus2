@@ -1,0 +1,8 @@
+{
+  "solution": {
+    "path": "ConnectPlus.slnx",
+    "projects": [
+      "ConnectPlus.csproj"
+    ]
+  }
+}
